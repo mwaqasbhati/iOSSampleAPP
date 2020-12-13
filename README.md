@@ -23,15 +23,15 @@ This project is build using architecture `MVVM-C (Model-View-ViewModel-Coordinat
 
 ### Key Points
 
-1- MVVM-C
+- **MVVM-C**
 
-2- EndPoints
+- **EndPoints**
 
-3- ImageCache.framework
+- **ImageCache.framework**
 
-4- Unit Tests
+- **Unit Tests**
 
-5- Cocoapods
+- **Cocoapods**
 
 ### Screenshots
 
