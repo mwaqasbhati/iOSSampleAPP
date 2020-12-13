@@ -22,6 +22,7 @@ class CatalogListingViewController: UIViewController {
     
     // MARK:- Helper Methods
     private func setup() {
+        title = Constant.myAds
         addObservers()
         fetchCatalog()
     }

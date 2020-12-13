@@ -17,7 +17,6 @@ class CatalogListingCoordinator: Coordinator {
     
     func start() {
         if let listingVC = UIStoryboard.main.instatiate(storybordID: CatalogStoryboardID.catalogList) as? CatalogListingViewController {
-            listingVC.navigationController?.setNavigationBarHidden(true, animated: true)
             listingVC.viewModel = CatalogListingViewModel(CatalogRepository(Router<CatalogEndpoint>()))
             navigation.pushViewController(listingVC, animated: true)
         }

@@ -925,7 +925,7 @@
 				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/iOSSampleAPP/Framework",
+					"$(PROJECT_DIR)/iOSSampleAPP/ImageFramework",
 				);
 				INFOPLIST_FILE = iOSSampleAPP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -950,7 +950,7 @@
 				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/iOSSampleAPP/Framework",
+					"$(PROJECT_DIR)/iOSSampleAPP/ImageFramework",
 				);
 				INFOPLIST_FILE = iOSSampleAPP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
