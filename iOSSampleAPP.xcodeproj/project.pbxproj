@@ -19,8 +19,8 @@
 		6F2B037C258570FD00A3A4E8 /* ResponseSerializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2B037B258570FD00A3A4E8 /* ResponseSerializer.swift */; };
 		6F2B03812585714400A3A4E8 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2B03802585714400A3A4E8 /* Reachability.swift */; };
 		6F2B038C258571CE00A3A4E8 /* APIResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2B038B258571CE00A3A4E8 /* APIResult.swift */; };
-		6F6DB2A82586838500599AD5 /* ImageCache.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F6DB2A62586838200599AD5 /* ImageCache.framework */; };
-		6F6DB2A92586838500599AD5 /* ImageCache.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6F6DB2A62586838200599AD5 /* ImageCache.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		6F98EEEF2586936600FB2D6A /* ImageCache.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F98EEED2586936200FB2D6A /* ImageCache.framework */; };
+		6F98EEF02586936600FB2D6A /* ImageCache.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6F98EEED2586936200FB2D6A /* ImageCache.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		6FE54ED125826B0500ED1BE6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE54ED025826B0500ED1BE6 /* AppDelegate.swift */; };
 		6FE54ED325826B0500ED1BE6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE54ED225826B0500ED1BE6 /* SceneDelegate.swift */; };
 		6FE54ED525826B0500ED1BE6 /* CatalogListingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE54ED425826B0500ED1BE6 /* CatalogListingViewController.swift */; };
@@ -81,7 +81,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				6F6DB2A92586838500599AD5 /* ImageCache.framework in Embed Frameworks */,
+				6F98EEF02586936600FB2D6A /* ImageCache.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -106,7 +106,7 @@
 		6F2B037B258570FD00A3A4E8 /* ResponseSerializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseSerializer.swift; sourceTree = "<group>"; };
 		6F2B03802585714400A3A4E8 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		6F2B038B258571CE00A3A4E8 /* APIResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIResult.swift; sourceTree = "<group>"; };
-		6F6DB2A62586838200599AD5 /* ImageCache.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ImageCache.framework; sourceTree = "<group>"; };
+		6F98EEED2586936200FB2D6A /* ImageCache.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ImageCache.framework; sourceTree = "<group>"; };
 		6FE54ECD25826B0500ED1BE6 /* iOSSampleAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSSampleAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FE54ED025826B0500ED1BE6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FE54ED225826B0500ED1BE6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -156,7 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2261AF27D02DE7745418D10 /* Pods_iOSSampleAPP.framework in Frameworks */,
-				6F6DB2A82586838500599AD5 /* ImageCache.framework in Frameworks */,
+				6F98EEEF2586936600FB2D6A /* ImageCache.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,7 +232,7 @@
 		6FBDB0922585E38F001789E6 /* ImageFramework */ = {
 			isa = PBXGroup;
 			children = (
-				6F6DB2A62586838200599AD5 /* ImageCache.framework */,
+				6F98EEED2586936200FB2D6A /* ImageCache.framework */,
 			);
 			path = ImageFramework;
 			sourceTree = "<group>";
@@ -928,6 +928,7 @@
 					"$(PROJECT_DIR)/iOSSampleAPP/ImageFramework",
 				);
 				INFOPLIST_FILE = iOSSampleAPP/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -953,6 +954,7 @@
 					"$(PROJECT_DIR)/iOSSampleAPP/ImageFramework",
 				);
 				INFOPLIST_FILE = iOSSampleAPP/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

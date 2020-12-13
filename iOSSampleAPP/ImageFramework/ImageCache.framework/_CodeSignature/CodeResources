@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		t7C66Ls8O5wipeyvgo1YonCJ0HE=
+		pb7AyTPdNzWXBgKiIjq909ScQQw=
 		</data>
 		<key>Modules/ImageCache.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Av9xmhDktm6mcg3gfA9EPcjtvtk=
+		tHUmBOD99DVClEM5gR21FP4M0MY=
 		</data>
 		<key>Modules/ImageCache.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		Av9xmhDktm6mcg3gfA9EPcjtvtk=
+		tHUmBOD99DVClEM5gR21FP4M0MY=
 		</data>
 		<key>Modules/ImageCache.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		s4A8ZcYkM5FQx9ibyJje9icERVo=
+		1kHU33/dVaNDlTQlmpxuWOlnGeE=
 		</data>
 		<key>Modules/ImageCache.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bUtFFIQqW5F8Gg9CV4khBKfDNgA=
+		N//EuGnV7GCW6W7bOX32JQb/l5A=
 		</data>
 		<key>Modules/ImageCache.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		s4A8ZcYkM5FQx9ibyJje9icERVo=
+		1kHU33/dVaNDlTQlmpxuWOlnGeE=
 		</data>
 		<key>Modules/ImageCache.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		bUtFFIQqW5F8Gg9CV4khBKfDNgA=
+		N//EuGnV7GCW6W7bOX32JQb/l5A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c5vaoh/JwMhr4Ms5pYr7RI9jwJjXTUk34Q9PlcBbWFM=
+			TgdWbXd5ou1Iq/N/N54mdt3Q2tb5zZ7HKgEwFuA4Vjs=
 			</data>
 		</dict>
 		<key>Modules/ImageCache.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c5vaoh/JwMhr4Ms5pYr7RI9jwJjXTUk34Q9PlcBbWFM=
+			TgdWbXd5ou1Iq/N/N54mdt3Q2tb5zZ7HKgEwFuA4Vjs=
 			</data>
 		</dict>
 		<key>Modules/ImageCache.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IMUR1XBuvhk97dbvwIVtzTgjbxybnUKllBwi+6c/LAs=
+			Ck6twys4fsnsAA2/Tm0UBRQK3nJLIKCvBgrprQTyDs4=
 			</data>
 		</dict>
 		<key>Modules/ImageCache.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6jWERnzFbUyHsg2LRkBXaeo6WyAV777lQCG+ftwrtV0=
+			aFaxg/lJMiFrsfBCp2mxEjqm1/XyaguaZ9A2H8sALAo=
 			</data>
 		</dict>
 		<key>Modules/ImageCache.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IMUR1XBuvhk97dbvwIVtzTgjbxybnUKllBwi+6c/LAs=
+			Ck6twys4fsnsAA2/Tm0UBRQK3nJLIKCvBgrprQTyDs4=
 			</data>
 		</dict>
 		<key>Modules/ImageCache.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6jWERnzFbUyHsg2LRkBXaeo6WyAV777lQCG+ftwrtV0=
+			aFaxg/lJMiFrsfBCp2mxEjqm1/XyaguaZ9A2H8sALAo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
